@@ -1,7 +1,7 @@
 # Avalização da sprint 2
 
 # Sumário
-* [`Conceitos iniciais`](#conceitos-iniciais)
+* [`Conceitos iniciais`](#conceitos)
 * [`Objetivo`](#objetivo)
 * [`Recursos  utilizados`](#recursos-utilizados)
 * [`Considerações iniciais`](#considerações-iniciais)
