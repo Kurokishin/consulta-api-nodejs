@@ -174,9 +174,9 @@ docker run -dp 8000:4000 --name docker-api-nodejs img-api-nodejs
 ```
 > Opções
 > - -d = roda o contêiner em background
-> - -p = especifica as portas do host:contêiner respectivamente
+> - -p = especifica as portas do host:contêiner
 ---
 
 ## Conclusão
 * Nessa avaliação eu fui capaz de aprender como consumir uma API por meio do Nodejs. As dificuldades que tive foram tanto técnicas, como dúvidas sobre algumas estruturas do JavaScript quanto abstratas (gestão de tempo e cansaço).
-* Apesar da entrega atrasada, o processo para a construção desse projeto me ensinou que é preciso respeitar o corpo e descansar, pois independentemente do quão fácil uma tarefa possa parecer, a mesma se torna mais desafiadora com uma mente cansada.
+* Apesar da entrega atrasada, o processo para a construção desse projeto me ensinou que é preciso respeitar o corpo e descansar, pois independentemente do quão fácil uma tarefa possa parecer, a mesma se torna mais desafiadora com a mente cansada.
