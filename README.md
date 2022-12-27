@@ -1,11 +1,23 @@
 # Avalização da sprint 2
 
-## Conceitos iniciais
+# Sumário
+* [`Conceitos iniciais`](#conceitos-iniciais)
+* [`Objetivo`](#objetivo)
+* [`Recursos  utilizados`](#recursos-utilizados)
+* [`Considerações iniciais`](#considerações-iniciais)
+* [`Desenvolvimento`](#desenvolvimento)
+* [`Docker`](#docker)
+* [`Conclusão`](#conclusão)
+
+## Conceitos
 * API
     * Conjunto de regras que definem como computadores ou aplicações se comunicam entre si
 
 * Node.js
     * Permite com que JavaScript seja executado sem a utilização de um navegador, além de facilitar na integração de um back end
+
+* Docker
+    * Plataforma que garante a construção, *deploy*, execução e atualização de contêineres
 
 ---
 
